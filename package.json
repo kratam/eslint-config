@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Tamas Krasser <krasser.tamas@gmail.com>",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "eslint": "^7.24.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.2.0",
